@@ -2,7 +2,7 @@
 The Power of Python
 
 ## Project Overview
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional board. 
+An employee of the Colorado Board of Elections has given us the following election audit task items to complete after the completion of a local election. 
 
 The assignment inlcudes the following 5 tasks...
 1) Calculate the total number of votes cast.
@@ -17,17 +17,48 @@ The assignment inlcudes the following 5 tasks...
 
 ## Summary
 The analysis of the election returned the following results:
-- There were X votes case in the election.
-- The three candidates in this election were:
-  1) X
-  2) X
-  3) X
-- The individual candidate results were:
-  1) 1 received X total votes cast in their favor for X% of the total vote. 
-  3) 2 received X total votes cast in their favor for X% of the total vote. 
-  4) 3 received X total votes cast in their favor for X% of the total vote. 
-- Based on the results of the election, X was the winner with X% of the total vote. 
+
+#### Calculate the total number of votes cast.
+- There were 369,711 votes case in the election.
+#### Get a complete list of candidates who receieved votes.
+The three candidates in this election were:
+1) Charles Casper Stockham
+2) Diana DeGette
+3) Raymon Anthony Doane
+#### Calculate the total number of votes each candidate received.
+The individual candidate votes were:
+  - Charles Casper Stockham received 85,213 total votes cast. 
+  - Diana Degette received 272,892 total votes cast.
+  - Raymon Anthony Doane received 11,606 total votes cast. 
+#### Calculate the percentage of votes each candidate won.
+The individual candidate percentages were:
+  - Charles Casper Stockham received 23.0% of the total vote. 
+  - Diana Degette received 73.8% of the total vote.
+  - Raymon Anthony Doane received 3.1 % of the total vote. 
+#### Determine the winner of the election based on popular vote.
+Based on the results of the election, Diana DeGette was the winner with 73.8% of the total vote. 
 
 ## Challenge Overview
+With the initial election vote results complete, the election commission has requested additional data to be added to the election audit. They would like to review the results for the following three inquiries...
+1) What was the total voter turnout for each county?
+2) What is the percentage of votes from each country out of the total count?
+3) Which county had the highest voter turnout?
 
 ## Challenge Summary
+
+The additional inquries for county trunout returned the following results...
+
+#### What was the total voter turnout for each county?
+The county votes included...
+- Jefferson County with a total of 38,855 votes cast.
+- Denver County with a total of 306,055 votes cast.
+- Arapahoe County with a total of 24,801 votes cast. 
+
+#### What is the percentage of votes from each country out of the total count?
+The county percentages of votes included...
+- Jefferson County with a percentage total of 10.5%.
+- Denver County with a total percentage total of 82.8%.
+- Arapahoe County with a total of 6.7%.
+
+#### Which county had the highest voter turnout?
+- Denver County had the highest voter turnout. 
