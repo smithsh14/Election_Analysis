@@ -20,6 +20,9 @@ The analysis of the election returned the following results:
 
 #### Calculate the total number of votes cast.
 - There were 369,711 votes case in the election.
+
+![Pic_1](https://github.com/smithsh14/Election_Analysis/blob/main/Resources/TotalVotes.png)
+
 #### Get a complete list of candidates who receieved votes.
 The three candidates in this election were:
 1) Charles Casper Stockham
@@ -37,6 +40,8 @@ The individual candidate percentages were:
   - Raymon Anthony Doane received 3.1 % of the total vote. 
 #### Determine the winner of the election based on popular vote.
 Based on the results of the election, Diana DeGette was the winner with 73.8% of the total vote. 
+
+![Pic_2](https://github.com/smithsh14/Election_Analysis/blob/main/Resources/ElectionWinner.png)
 
 ## Challenge Overview
 With the initial election vote results complete, the election commission has requested additional data to be added to the election audit. They would like to review the results for the following three inquiries...
@@ -62,3 +67,5 @@ The county percentages of votes included...
 
 #### Which county had the highest voter turnout?
 - Denver County had the highest voter turnout. 
+
+![Pic_3](https://github.com/smithsh14/Election_Analysis/blob/main/Resources/CountyTurnout.png)
